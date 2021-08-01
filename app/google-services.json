@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589194768146",
+    "project_id": "co-vi-de",
+    "storage_bucket": "co-vi-de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589194768146:android:7afff65404e93454ec8dcb",
+        "android_client_info": {
+          "package_name": "com.example.covide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589194768146-if60e32mtf7lganl9uiu74dlae21n644.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl26zHfvJJDrxdz1H0XT2-aHzUm0-kpLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589194768146-if60e32mtf7lganl9uiu74dlae21n644.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
